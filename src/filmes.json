@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "filme" : "Gato de Botas 2",
+        "ano": 2022, 
+        "categoria": ["Animação", "Aventura"],
+        "Qualidade_hd": true,
+        "nota": 7.9,
+        "poster": "images/gatodebotas.jpg" 
+    },
+
+    {
+    "id":2,
+        "filme": "A Baleia",
+        "ano": 2022, 
+        "categoria": ["Drama", "Suspense"],
+        "Qualidade_hd": true,
+        "nota": 7.8,
+        "poster": "images/abaleia.jpeg" 
+    },
+
+    {
+        "id":3,
+        "filme": "Avatar: O caminho da água",
+        "ano": 2022, 
+        "categoria": ["Drama", "Aventura"],
+        "Qualidade_hd": true,
+        "nota": 7.8,
+        "poster": "images/avatar2.jpg" 
+    },
+
+    {
+        "id":4,
+        "filme": "Creed 3",
+        "ano": 2023, 
+        "categoria": ["Drama", "Suspense", "Ação"],
+        "Qualidade_hd": true,
+        "nota": 7.3,
+        "poster": "images/creed3.jpg" 
+    },
+
+    {
+        "id":5,
+        "filme": "Homem-Formiga e a Vespa: Quantumania",
+        "ano": 2023, 
+        "categoria": ["Ação", "Aventura"],
+        "Qualidade_hd": true,
+        "nota": 6.5,
+        "poster": "images/homemformiga.jpeg"
+    }
+
+]
+
